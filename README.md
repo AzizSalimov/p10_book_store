@@ -12,7 +12,7 @@
 ![изображение](https://user-images.githubusercontent.com/122611579/231451981-9ca51cd4-880e-4f20-ae77-ba516ba95095.png)
 
 
-# Account opening sections of the kisab shop
+## Account opening sections of the kisab shop
 
 
 ![изображение](https://user-images.githubusercontent.com/122611579/231452313-05b79c77-e2f9-44ac-bb81-7d88d7a38a27.png)

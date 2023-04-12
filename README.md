@@ -19,3 +19,7 @@
 ![изображение](https://user-images.githubusercontent.com/122611579/231452413-50c53183-a210-4f59-a3cc-70d4d32ef2f7.png)
 
 ![изображение](https://user-images.githubusercontent.com/122611579/231452452-12f8b10a-709e-489d-97cd-4db16738bed6.png)
+
+
+# The book buying department of a bookstore
+![изображение](https://user-images.githubusercontent.com/122611579/231452969-4e251981-df4e-499b-ac0e-12feafba94a8.png)

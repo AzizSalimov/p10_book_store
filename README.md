@@ -1,10 +1,10 @@
-# The bookstore's main window
+## The bookstore's main window
 
 ![изображение](https://user-images.githubusercontent.com/122611579/231451501-145ebe41-7f60-4e25-9f66-0f73f14a3f3b.png)
 
 
 
-# Bookstore Functions
+## Bookstore Functions
 
 
 ![изображение](https://user-images.githubusercontent.com/122611579/231451729-1076c8bf-ffe8-4697-9ecf-f496629578bc.png)
@@ -26,6 +26,6 @@
 
 
 
-# The book buying department of a bookstore
+## The book buying department of a bookstore
 
 ![изображение](https://user-images.githubusercontent.com/122611579/231452969-4e251981-df4e-499b-ac0e-12feafba94a8.png)
